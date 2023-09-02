@@ -352,6 +352,7 @@
 "Assets/Scripts/1. Command/LurchCommand.cs"
 "Assets/Scripts/1. Command/NullComand.cs"
 "Assets/Scripts/1. Command/SwapCommand.cs"
+"Assets/Scripts/3. Observer/UISubject.cs"
 -langversion:9.0
 
 /deterministic
